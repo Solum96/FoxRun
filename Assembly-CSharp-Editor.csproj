@@ -150,43 +150,43 @@
      <None Include="Assets\PlayMaker\Editor\Install\readme.txt" />
      <None Include="Assets\PlayMaker\Editor\UnityEngine.UI.xml" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
@@ -386,23 +386,23 @@
  <Reference Include="UnityEditor.Android.Extensions">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="PlayMakerEditorResources">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
- </Reference>
- <Reference Include="PlayMaker">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
- </Reference>
- <Reference Include="PlayMakerEditor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+ <Reference Include="ConditionalExpression">
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
  </Reference>
  <Reference Include="ConditionalExpressionEditor">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
  </Reference>
- <Reference Include="ConditionalExpression">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+ <Reference Include="PlayMakerEditor">
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMakerEditorResources">
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
+ </Reference>
+ <Reference Include="PlayMaker">
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/Users/nilss/Documents/Programmering/GGJ2020/FoxRun/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.17f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
