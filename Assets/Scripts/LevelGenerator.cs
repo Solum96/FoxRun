@@ -5,6 +5,7 @@ using UnityEngine;
 public class LevelGenerator : MonoBehaviour
 {
     [SerializeField] private const float SpawnDistanceFromPlayer = 2f;
+    [SerializeField] public float PlayerFallLimit = 20f;
     [SerializeField] private Transform StartSection;
     [SerializeField] private List<Transform> LevelPartList;
     [SerializeField] private GameObject player;
@@ -29,6 +30,14 @@ public class LevelGenerator : MonoBehaviour
         )
         {
             SpawnLevelPart();
+        }
+
+        if(player.transform.position.y < lastEndPosition.position.y - PlayerFallLimit){
+            var PlayerRigidbody = player.GetComponent<Rigidbody2D>() as Rigidbody2D;
+            var PlayerAnimator = player.GetComponent<Animator>() as Animator;
+            PlayerRigidbody.Sleep();
+            PlayerAnimator.SetBool("gameOver", true);
+            
         }
     }
 

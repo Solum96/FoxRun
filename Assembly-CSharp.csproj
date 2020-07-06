@@ -45,6 +45,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\ManageScene.cs" />
      <Compile Include="Assets\PlayMaker\Actions\ActionHelpers.cs" />
      <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\AnimateColor.cs" />
      <Compile Include="Assets\PlayMaker\Actions\AnimateVariables\AnimateFloat.cs" />
@@ -906,6 +907,7 @@
      <Compile Include="Assets\Scripts\LevelGenerator.cs" />
      <None Include="Assets\PlayMaker\Templates\Readme.txt" />
      <None Include="Assets\PlayMaker\Readme.txt" />
+     <None Include="Assets\Art\Sunnyland\artwork\Sprites\Textfil.txt" />
      <None Include="Assets\PlayMaker\Resources\PlayMakerAssemblies.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/nilss/Documents/Programmering/FoxRun/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
