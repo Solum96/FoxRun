@@ -755,7 +755,7 @@ GameObject:
   - component: {fileID: 1303803319}
   - component: {fileID: 1303803318}
   m_Layer: 5
-  m_Name: GameOverText
+  m_Name: TextField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2166,5 +2166,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 9159697597537255420, guid: fe4b64d532863d340b8a2b9b6e1812fc,
+        type: 3}
+      propertyPath: fsm.states.Array.data[3].actionData.fsmOwnerDefaultParams.Array.data[0].gameObject.value
+      value: 
+      objectReference: {fileID: 1303803317}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fe4b64d532863d340b8a2b9b6e1812fc, type: 3}
