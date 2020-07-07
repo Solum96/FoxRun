@@ -905,6 +905,8 @@
      <Compile Include="Assets\PlayMaker\FsmProcessor.cs" />
      <Compile Include="Assets\PlayMaker\UpdateHelper.cs" />
      <Compile Include="Assets\Scripts\LevelGenerator.cs" />
+     <Compile Include="Assets\Scripts\ManageScene.cs" />
+     <Compile Include="Assets\Scripts\MenuBehavior.cs" />
      <None Include="Assets\PlayMaker\Templates\Readme.txt" />
      <None Include="Assets\PlayMaker\Readme.txt" />
      <None Include="Assets\Art\Sunnyland\artwork\Sprites\Textfil.txt" />
