@@ -911,6 +911,7 @@ MonoBehaviour:
   LevelPartList:
   - {fileID: 63659723461272276, guid: cdf860c88dd238d4184f6a4d7cb8bb69, type: 3}
   - {fileID: 63659723461272276, guid: 7f27317bb0148c3408e2bf3983a39be5, type: 3}
+  - {fileID: 63659723461272276, guid: 029f4203abb05ae4b95a7dba29e1271a, type: 3}
   player: {fileID: 1836492723}
 --- !u!4 &1676595206
 Transform:
