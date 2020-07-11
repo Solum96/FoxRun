@@ -20,4 +20,8 @@ public class ManageScene : MonoBehaviour
     public void ReloadScene(){
         SceneManager.LoadScene(1, LoadSceneMode.Single);
     }
+
+    public void ExitToMainMenu(){
+        SceneManager.LoadScene(0);
+    }
 }
